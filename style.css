@@ -1,0 +1,122 @@
+/**DONE BY NATHAN PAGE  **/
+/**PLEASE NOTE THAT THE LINK IS AT THE BOTTOM AND IS HARD TO SEE  **/
+/**Student Number 200609542  **/
+/**Done on November 19, 2024  **/
+body{
+    margin: 0px;
+    background-image:url("../img/blankposter.jpeg") ;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+   overflow-x: hidden;
+    /**The overflow was the only way to get the poster to not break  **/
+
+    /** NOTE The actual poster is not centered, for some reason he is leaning closer to the right **/
+
+}
+h1,h2,h3{
+    font-family: "Playfair Display", sans-serif;
+    color: aliceblue;
+
+}
+p,li{
+    font-family: "Rajdhani", sans-serif;
+    color: lightgreen;
+}
+header{
+    text-align: center;
+    width: 1725px;
+    font-size: 35px;
+}
+.Chevy{
+   position: absolute;
+    top: 1545px;
+    width: 1625px;
+    text-align: center;
+    font-size:45px;
+}
+.Lamp{
+    position: absolute;
+    top: 1650px;
+    width: 1625px;
+    text-align: center;
+    font-size:24px;
+}
+.Christmas{
+    position: absolute;
+    top: 1640px;
+    width: 1625px;
+    text-align: center;
+    font-size:40px;
+    /**For some reason on the offical poster there is no space between the two words  **/
+}
+.Top{
+    position: absolute;
+    top: 1750px;
+    width: 1625px;
+    text-align: center;
+    font-size:13px;
+}
+.First{
+    position: absolute;
+    top: 1765px;
+    width: 1625px;
+    text-align: center;
+    font-size:13px;
+}
+.Second{
+    position: absolute;
+    top: 1775px;
+    width: 1625px;
+    text-align: center;
+    font-size:13px;
+}
+.Third{
+    position: absolute;
+    top: 1785px;
+    width: 1625px;
+    text-align: center;
+    font-size:13px;
+}
+.Fourth{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 1785px;
+    display: flex;
+}
+.Fourth,img{
+    margin: 5px;
+}
+.Fifth{
+    position: absolute;
+    top: 1795px;
+    width: 1625px;
+    text-align: center;
+    font-size:13px;
+}
+.Sixth{
+    position: absolute;
+    top: 1805px;
+    width: 1625px;
+    text-align: center;
+    font-size:13px;
+}
+footer{
+    height: 50px;
+    width: 50px;
+    
+
+}
+footer,div,img{
+height: 150px;
+    width: 150px;
+}
+footer,menu,li{
+    position: absolute;
+    top: 625px;
+    width: 1625px;
+    text-align: center;
+    font-size:13px;
+}
+/**Poster isn't perfect but it looks decent enough  **/
